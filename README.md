@@ -1,6 +1,6 @@
 # Procesamiento_de_Datos_con_Python
 
-# Proyecto procesamiento de datos con Python BEDU 18
+# Proyecto procesamiento de datos con Python BEDU 11
 - Ana Cristina Castillo Escobar
 - Edgar Balderas Loranca
 - José Alberto Cortes Ayala
